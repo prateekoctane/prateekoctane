@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/prateekoctane?tab=repositories](https://github.com/prateekoctane?tab=repositories)
 
+- 👨‍ Check out my Portfolio at [https://prateekoctane.github.io/](https://prateekoctane.github.io/)
+
 - 📫 How to reach me **prateekoctane@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1VJzvHdisgV5td0WpKfovrptjiMuI6cDB/view?usp=sharing](https://drive.google.com/file/d/1VJzvHdisgV5td0WpKfovrptjiMuI6cDB/view?usp=sharing)
