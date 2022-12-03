@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **prateekoctane@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VJzvHdisgV5td0WpKfovrptjiMuI6cDB/view?usp=sharing](https://drive.google.com/file/d/1VJzvHdisgV5td0WpKfovrptjiMuI6cDB/view?usp=sharing)
+- 📄 You can see my Resume at [https://drive.google.com/file/d/1VJzvHdisgV5td0WpKfovrptjiMuI6cDB/view?usp=sharing](https://drive.google.com/file/d/1VJzvHdisgV5td0WpKfovrptjiMuI6cDB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
