@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Prateek Bhattacharya</h1>
-<img align="auto" src="https://github.com/Codex-Swapnil1/PortFolio/raw/main/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" alt="prateekoctane"/>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Prateek 👦🏽; I am a Full-stack%20web%20developer 👨🏻‍💻; Creating something is always fun;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+</p>
 <h3 align="center">Greetings!! I am Prateek, a Full Stack Web Developer. Welcome to my GitHub. Hope you have a good time here </h3>
 
-- 🔭 All my Projects are here:  [Projects](https://github.com/prateekoctane?tab=repositories)
+
+
+
+- 📫  All my Projects are here:  [Projects](https://github.com/prateekoctane?tab=repositories)
 
 - 👯 Checkout my Portfolio: [Portfolio](https://prateekoctane.github.io/) 
 
@@ -29,3 +35,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=prateekoctane&show_icons=true&locale=en" alt="prateekoctane" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=prateekoctane&" alt="prateekoctane" /></p>
+
+<p align="center">
+<a href="https://github.com/prateekoctane"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prateekoctane&theme=dracula" />
+</span></a> </p>
