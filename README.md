@@ -34,7 +34,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=prateekoctane&show_icons=true&locale=en" alt="prateekoctane" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=prateekoctane&" alt="prateekoctane" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=prateekoctane" alt="prateekoctane" /></p>
 
 <p align="center">
 <a href="https://github.com/prateekoctane"><span>
